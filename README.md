@@ -1,16 +1,8 @@
 # wallet
 
-A new Flutter project.
+A Wallet UI in flutter
 
-## Getting Started
+![wallet](https://user-images.githubusercontent.com/75153651/178598845-2803205d-ee8d-4d4a-912d-a899ed17d5af.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
